@@ -1,8 +1,9 @@
 # cownby.github.io
 
-[Back to my GitHub repo](https://github.com/cownby)
+[Back to my GitHub repo](https://github.com/cownby)  
+[LinkedIn profile](https://www.linkedin.com/in/carolynownby/)
 
-Github projects & prototypes
+Jekyll projects & prototypes
 
 I have my github.io set up to use project pages so I can prototype multiple sites. See
 * [Archethought prototype using foundation](https://cownby.github.io/webPrototype-Archethought/)
