@@ -1,7 +1,8 @@
 # cownby.github.io
 
 [Back to my GitHub repo](https://github.com/cownby)  
-[LinkedIn profile](https://www.linkedin.com/in/carolynownby/)
+[LinkedIn profile](https://www.linkedin.com/in/carolynownby/)  
+[Stack Overflow profile](https://stackoverflow.com/users/6010292/cownby)
 
 Jekyll projects & prototypes
 
